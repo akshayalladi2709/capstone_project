@@ -1,0 +1,8 @@
+StepDefinition\FavUserSteps.class
+StepDefinition\PageClass.class
+StepDefinition\BStackDemo.class
+StepDefinition\LockedUserSteps.class
+StepDefinition\ImageUserSteps.class
+StepDefinition\ExistingOrdersUserSteps.class
+StepDefinition\TestRunner.class
+StepDefinition\DemouserSteps.class
